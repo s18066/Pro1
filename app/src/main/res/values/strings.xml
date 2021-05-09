@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PRO1</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="place">Place</string>
+    <string name="amount">Amount</string>
+    <string name="zapisz_wydatek">Zapisz wydatek</string>
+    <string name="miejsce">Miejsce</string>
+    <string name="biedronka_lidl">Biedronka, Lidl, ...</string>
+    <string name="zakupy_rozrywka">Zakupy, Rozrywka, ...</string>
+    <string name="kategoria">Kategoria</string>
+    <string name="data">Data</string>
+    <string name="kwota">Kwota</string>
+</resources>
